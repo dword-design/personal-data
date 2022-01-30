@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/personal-data/compare/v1.0.0...v1.0.1) (2022-01-30)
+
+
+### Bug Fixes
+
+* foo ([1860e90](https://github.com/dword-design/personal-data/commit/1860e903b6d5065beaffe5ed87c4049a807bcc0e))
+
 # 1.0.0 (2022-01-30)
 
 
