@@ -17,3 +17,7 @@ export const address = endent`
   ${street}
   ${postalCode} ${city}
 `
+
+export const phoneNumber = '+49 177 5055641'
+
+export const email = 'info@sebastianlandwehr.com'
