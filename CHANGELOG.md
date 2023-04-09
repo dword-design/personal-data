@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dword-design/personal-data/compare/v1.0.1...v2.0.0) (2023-04-09)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#18](https://github.com/dword-design/personal-data/issues/18)) ([9f19447](https://github.com/dword-design/personal-data/commit/9f19447d14678a1aae15d28cd82f5f8cea7c9aa5))
+
+
+### BREAKING CHANGES
+
+* Drop node 12 support, move to esm
+
 ## [1.0.1](https://github.com/dword-design/personal-data/compare/v1.0.0...v1.0.1) (2022-01-30)
 
 
