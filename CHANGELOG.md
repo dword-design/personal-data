@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/personal-data/compare/v2.0.0...v2.0.1) (2023-04-11)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v9.5.16 ([0ccbfc1](https://github.com/dword-design/personal-data/commit/0ccbfc1d8a9fc5c770dc1a522e0fc8d3069e5c15))
+
 # [2.0.0](https://github.com/dword-design/personal-data/compare/v1.0.1...v2.0.0) (2023-04-09)
 
 
