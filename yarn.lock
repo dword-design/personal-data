@@ -1231,9 +1231,9 @@
     micromatch "^4.0.2"
 
 "@dword-design/base@^9.5.5":
-  version "9.5.17"
-  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-9.5.17.tgz#b8d759b9333e56a7a27d8d0c41fe332acd6ac8c6"
-  integrity sha512-gNSFQID0/G2uhJRld2UhQEENNSYt/zZJb7vMIBBUT1Ob1okkFZeGG+W5mbKoeui0MKRbQCWJRMdoh9w9VvTC+g==
+  version "9.5.18"
+  resolved "https://registry.yarnpkg.com/@dword-design/base/-/base-9.5.18.tgz#e6125515a2cebef08b93bf7b3f7755b21db3b613"
+  integrity sha512-aR6R4hNCqqDR3dWDDxUyS1YOtg0vsr5CAK6/0uQ+Q5QeYcFnSxL9nj4fIkt8SiTqpkmW7G0ehGL2Y08VyGD8DA==
   dependencies:
     "@commitlint/cli" "^17.4.0"
     "@commitlint/config-conventional" "^17.4.0"
@@ -1309,9 +1309,9 @@
     babel-plugin-add-module-exports "^1.0.2"
 
 "@dword-design/depcheck-parser-sass@^3.0.0":
-  version "3.0.9"
-  resolved "https://registry.yarnpkg.com/@dword-design/depcheck-parser-sass/-/depcheck-parser-sass-3.0.9.tgz#cb317657a92c72f7df1f1a919fcc67f50ba6724d"
-  integrity sha512-2urIKMsoXEJE/jW9GDCjyh6LrgxTklug1r0gwnFtatdiEXNu1qsgsqFyuXG7TarcrY0hpRx+9EW1kcpaYSgBYg==
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/@dword-design/depcheck-parser-sass/-/depcheck-parser-sass-3.0.10.tgz#ddedf8cdd1bf048a4059c48f90c2853c0a39a3e9"
+  integrity sha512-vNmo6sB6ea4QmgPnI6NNsumsRP6ZDgvgLd0UN0zxJlbudo0ar0ouGzr7tVskrYsCWcH5IvrlmErBOfQu2GKPQg==
   dependencies:
     "@dword-design/functions" "^4.0.0"
     get-package-name "^2.0.0"
@@ -1399,9 +1399,9 @@
   integrity sha512-W861E4cbZmUaYri3mhZNfpo2Yxc1hHPP0v5iDZGE+h9EHplY+8tzWaTNHIF67DmrcDLP79zxd/lkJX0xZs0l8Q==
 
 "@dword-design/suppress-babel-register-esm-warning@^1.1.0":
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/@dword-design/suppress-babel-register-esm-warning/-/suppress-babel-register-esm-warning-1.1.7.tgz#934a2aa91f5b1fd1a6e94a04cf2a8f758a45624a"
-  integrity sha512-kfw2ruEISr3JGtOKfRcprkQLjsG7ili8dOsg7dxQN/TXJV7aQmZkzpEo3j18X3IXKLoqkTOAsUJzRAwh4Y+BtA==
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@dword-design/suppress-babel-register-esm-warning/-/suppress-babel-register-esm-warning-1.1.8.tgz#99ba4fde9426db7d47d7c5c57a7b25ee3db8ffd9"
+  integrity sha512-avkHnlQMU+d1QgCHeuGbAm8ZFFrcBCs2OQWXQAxOsRxMbvh977cYCoWSTsQtF5k8aP7tKWCBQSBw1bU6fqi7/g==
 
 "@eslint-community/eslint-utils@^4.1.2", "@eslint-community/eslint-utils@^4.2.0", "@eslint-community/eslint-utils@^4.3.0":
   version "4.4.0"
@@ -3218,9 +3218,9 @@ camelcase@^6.0.0, camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001449:
-  version "1.0.30001477"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001477.tgz#a2ffb2276258233034bbb869d4558b02658a511e"
-  integrity sha512-lZim4iUHhGcy5p+Ri/G7m84hJwncj+Kz7S5aD4hoQfslKZJgt0tHc/hafVbqHC5bbhHb+mrW2JOUHkI5KH7toQ==
+  version "1.0.30001478"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001478.tgz#0ef8a1cf8b16be47a0f9fc4ecfc952232724b32a"
+  integrity sha512-gMhDyXGItTHipJj2ApIvR+iVB5hd0KP3svMWWXDvZOmjzJJassGLMfxRkQCSYgGd2gtdL/ReeiyvMSFD1Ss6Mw==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -3966,9 +3966,9 @@ depcheck-package-name@^3.0.0:
     tagged-template-noop "^2.1.1"
 
 depcheck-parser-babel@^3.0.1:
-  version "3.0.16"
-  resolved "https://registry.yarnpkg.com/depcheck-parser-babel/-/depcheck-parser-babel-3.0.16.tgz#9a2da266c6814c877cee50fd14b8aaae03b1851d"
-  integrity sha512-M1bS7NXJhSHMoayVZhLOTknZZ8kR4B0QzfuYO1rK5ryNz1yYyvfYg+XoAyxkIfhKcmKh10TlBUo8UR88TSpDtA==
+  version "3.0.17"
+  resolved "https://registry.yarnpkg.com/depcheck-parser-babel/-/depcheck-parser-babel-3.0.17.tgz#2f1d03b0e0542059f68dbaa2602ebfd146bbc422"
+  integrity sha512-9UTWtntTjrVpyi6p+VLhMu7ghdSYh8vL0FzBOuEpsMG/jP5iMVfFiQL+mSE9iPLzx1RMHCYcc8/dVX1u7mUR5A==
   dependencies:
     "@babel/core" "^7.7.7"
     fs-extra "^10.0.0"
@@ -10613,9 +10613,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 suppress-experimental-warnings@^1.1.0:
-  version "1.1.14"
-  resolved "https://registry.yarnpkg.com/suppress-experimental-warnings/-/suppress-experimental-warnings-1.1.14.tgz#bcde17b5f2c1e078f8d7709cdbb0b144bd48f6e1"
-  integrity sha512-DyeBsXxmKZRIjoa6GUFGXOqszwm+smcei35FkyAd3g29/Qs8m/nItzXpkyKeNtH0XoO7GFew0qSqh8ZdmVyS1A==
+  version "1.1.15"
+  resolved "https://registry.yarnpkg.com/suppress-experimental-warnings/-/suppress-experimental-warnings-1.1.15.tgz#1d5e571688c3a6d6ac1677a003bc66da46854d51"
+  integrity sha512-jPnK+FJr3CsH+VceSsC8MtOrYdmS4ZDZhEz3KHmv73ikfUggNLiyGIT1Ny860UAYKB8NjepkDBcxHEXBQmUOHg==
 
 svg-element-attributes@^1.3.1:
   version "1.3.1"
