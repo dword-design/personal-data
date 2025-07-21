@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dword-design/personal-data/compare/v2.0.3...v3.0.0) (2025-07-21)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#29](https://github.com/dword-design/personal-data/issues/29)) ([43a3a62](https://github.com/dword-design/personal-data/commit/43a3a624e2239dfc560e24649589db0345f9c8a7))
+
+
+### BREAKING CHANGES
+
+* node.js >= 20
+
 ## [2.0.3](https://github.com/dword-design/personal-data/compare/v2.0.2...v2.0.3) (2023-04-12)
 
 
