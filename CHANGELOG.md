@@ -1,3 +1,16 @@
+# [4.0.0](https://github.com/dword-design/personal-data/compare/v3.0.0...v4.0.0) (2025-12-15)
+
+
+### Bug Fixes
+
+* trigger release ([2559121](https://github.com/dword-design/personal-data/commit/255912108ab7d627aeae01c4e99bbfa951300e29))
+* update dependency @dword-design/base to v16 ([#53](https://github.com/dword-design/personal-data/issues/53)) ([208494d](https://github.com/dword-design/personal-data/commit/208494dc404ce1fb4249e36616bd34a5804ccc7d))
+
+
+### BREAKING CHANGES
+
+* node >= 22
+
 # [3.0.0](https://github.com/dword-design/personal-data/compare/v2.0.3...v3.0.0) (2025-07-21)
 
 
